@@ -1,0 +1,8 @@
+It will be a college news bot for Telegram, as u can understand. It will have a bot itself,
+a database to store users' data and lesson schedules, and an admin panel to make it easy
+to upload news for our secretary. I also wonder about adding licensing to make sure that
+I can simply cut off the script if my college administration doesn't thank me as well for this project :>)
+
+Until I release the first stable release of the project, all rights to this project are reserved!
+
+ALL RIGHTS RESERVED!!!
